@@ -4,7 +4,7 @@ A modern, elegant demo web application for *Crownglory Bakes & Cafe*, built with
 ## Overview
 This full-stack style app allows customers to browse menu items, build custom orders, checkout, and track their order status — inspired by the architecture and design of “Fast React Pizza Co.” and the Starbucks website.
 
-<img width="1366" height="728" alt="Crownglory Bakes   Cafe - Google Chrome 10_29_2025 3_40_10 PM" src="https://github.com/user-attachments/assets/79bd3037-5e3c-4e56-9e9d-48751935e0d5" />
+
 
 ## Features
 - Browse categories: Coffee, Tea, Other Drinks, Cakes, Pastries.  
